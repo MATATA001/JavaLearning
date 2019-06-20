@@ -1,6 +1,6 @@
-package com.cx.concurrencyTest;
+package com.cx.java.concurrencyTest;
 
-import thread.MyThread;
+import com.cx.java.thread.MyThread;
 
 /**
  * 测试调用start() 和run()的不同

@@ -1,6 +1,6 @@
-package com.cx.concurrencyTest;
+package com.cx.java.concurrencyTest;
 
-import thread.MyRunnable;
+import com.cx.java.thread.MyRunnable;
 
 public class MyRunnableTest {
     public static void main(String[] args){
