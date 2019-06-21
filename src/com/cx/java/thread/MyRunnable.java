@@ -1,4 +1,4 @@
-package thread;
+package com.cx.java.thread;
 
 /**
  * java创建线程方法之二：实现Runnable接口--通过实现Runnable接口，我们定义了一个子任务，然后将子任务交由Thread去执行。

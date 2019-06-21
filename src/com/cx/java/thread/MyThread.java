@@ -1,4 +1,4 @@
-package thread;
+package com.cx.java.thread;
 
 /**
  * 创建自己的线程类
